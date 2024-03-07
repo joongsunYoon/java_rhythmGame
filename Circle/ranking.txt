@@ -1,0 +1,4 @@
+yoon,16
+choi,12
+kim,10
+Kang,8
